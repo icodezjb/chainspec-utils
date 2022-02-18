@@ -1,0 +1,15 @@
+{
+  "name": "chainspec-utils",
+  "version": "1.0.0",
+  "description": "Utility to manipuate a chain spec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChainX",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/util-crypto": "^8.4.1",
+    "commander": "^9.0.0"
+  }
+}
